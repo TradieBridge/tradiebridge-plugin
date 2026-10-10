@@ -9,7 +9,7 @@
     {
       "name": "tradiebridge",
       "source": "./",
-      "description": "Ask questions of a backup your trade business owns: Simpro, Xero, Deputy, Verizon Connect, The Fleet Office and Moveware."
+      "description": "Ask questions of the backup your trade business owns of the systems it runs on (job management, accounting, payroll, rostering and fleet), through TradieBridge's hosted MCP server."
     }
   ]
 }
