@@ -1,0 +1,15 @@
+{
+  "name": "tradiebridge",
+  "description": "TradieBridge's plugin for Claude Code.",
+  "owner": {
+    "name": "TradieBridge",
+    "email": "hello@tradiebridge.com"
+  },
+  "plugins": [
+    {
+      "name": "tradiebridge",
+      "source": "./",
+      "description": "Ask questions of a backup your trade business owns: Simpro, Xero, Deputy, Verizon Connect, The Fleet Office and Moveware."
+    }
+  ]
+}
