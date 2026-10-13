@@ -48,8 +48,7 @@ The server is the source of truth for tool names and schemas.
 - The plugin calls one endpoint: `https://app.tradiebridge.com/mcp`, with OAuth discovery at
   `https://app.tradiebridge.com/.well-known/oauth-protected-resource`.
 - The plugin stores no credential. Your MCP client keeps the OAuth token.
-- TradieBridge never writes to a source system. Agents never receive tax file
-  numbers, bank details or birth dates.
+- Agents never receive tax file numbers, bank details or birth dates.
 - Every tool call is recorded for 90 days. See the [privacy policy](https://tradiebridge.com/privacy)
   and [terms](https://tradiebridge.com/terms).
 

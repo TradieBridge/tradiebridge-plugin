@@ -11,8 +11,7 @@ description: >-
 
 TradieBridge copies a trade business's records out of the systems it runs on (job management,
 accounting, payroll, rostering and fleet) into a backup the business owns. The `tradiebridge` MCP
-server reads that backup. It never writes to a source system. Never assume which sources a company
-holds: `list_connections` names them.
+server reads that backup. Never assume which sources a company holds: `list_connections` names them.
 
 The first call opens a TradieBridge sign-in in the browser. The user needs a TradieBridge account
 with at least one source connected (https://app.tradiebridge.com).
