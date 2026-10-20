@@ -54,7 +54,7 @@ The server is the source of truth for tool names and schemas.
 
 ## Support
 
-hello@tradiebridge.com · [Docs](https://docs.tradiebridge.com)
+tradiebridge@nelsonworks.dev · [Docs](https://docs.tradiebridge.com)
 
 ## License
 

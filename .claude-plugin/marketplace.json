@@ -3,7 +3,7 @@
   "description": "TradieBridge's plugin for Claude Code.",
   "owner": {
     "name": "TradieBridge",
-    "email": "hello@tradiebridge.com"
+    "email": "tradiebridge@nelsonworks.dev"
   },
   "plugins": [
     {
